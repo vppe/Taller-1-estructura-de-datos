@@ -25,3 +25,7 @@ Utilizando MinGW:
 
    ```bash
    g++ -o sistema Sistema.cpp Libro.cpp Usuario.cpp MaterialBibliografico.cpp -std=c++11
+4. Ejecutar el programa:
+   
+   ```bash
+   ./main
