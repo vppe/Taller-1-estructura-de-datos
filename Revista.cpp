@@ -22,4 +22,9 @@ void Revista::mostrarInformacion() {
     std::cout <<"Mes de publicación :" << mesPublicacion<<std::endl;
     
 }
+
+std::string getTipo() {
+    return "REVISTA";
+}
+
 Revista::~Revista() {}

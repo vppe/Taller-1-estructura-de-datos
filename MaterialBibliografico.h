@@ -31,6 +31,8 @@ class MaterialBibliografico{
 
         virtual void mostrarInformacion();
 
+        virtual std::string getTipo();
+
         ~MaterialBibliografico();
 
 };

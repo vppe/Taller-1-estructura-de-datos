@@ -23,4 +23,8 @@
     
  }
 
+ std::string getTipo() {
+   return "LIBRO";
+ }
+
  Libro::~Libro() {}

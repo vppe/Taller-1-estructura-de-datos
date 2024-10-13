@@ -13,6 +13,8 @@ class Revista : public MaterialBibliografico {
         
         void mostrarInformacion();
 
+        std::string getTipo();
+
         ~Revista();
 
 

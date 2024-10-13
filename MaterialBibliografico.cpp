@@ -49,5 +49,7 @@ void MaterialBibliografico::mostrarInformacion() {
     std::cout << "Estado: " << estado<<std::endl;
 }
 
+std::string getTipo() {}
+
 MaterialBibliografico::~MaterialBibliografico() {}
 
