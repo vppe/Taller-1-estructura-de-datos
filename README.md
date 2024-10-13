@@ -1,7 +1,7 @@
 # Taller-1-estructura-de-datos
 Integrantes:
-Vincenzo Porzio, RUT, correo, paralelo C2
-Diego Parga, 21.621.105-7, diego.parga@alumnos.ucn.cl , paralelo C2
+* Vincenzo Porzio, RUT, correo, paralelo C2
+* Diego Parga, 21.621.105-7, diego.parga@alumnos.ucn.cl , paralelo C2
 
 
 # Proyecto de Sistema de Gestión de Material Bibliográfico
