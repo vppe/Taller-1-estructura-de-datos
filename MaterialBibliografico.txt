@@ -1,0 +1,10 @@
+El guardián entre el centeno;9780316769488;J.D. Salinger;Disponible;1951-07-16;Una historia sobre la rebeldía y la alienación adolescente.
+Matar a un ruiseñor;9780061120084;Harper Lee;Disponible;1960-07-11;Un relato impactante sobre la injusticia racial en el sur de EE.UU.
+1984;9780451524935;George Orwell;Disponible;1949-06-08;Una novela distópica sobre el totalitarismo y la vigilancia.
+Orgullo y prejuicio;9780141040349;Jane Austen;Disponible;1813-01-28;Una historia clásica de amor que explora las expectativas sociales.
+Moby-Dick;9781503280786;Herman Melville;Disponible;1851-10-18;El viaje del barco ballenero Pequod, dirigido por el capitán Ahab.
+National Geographic;9781426202187;John Smith;Disponible;Edición 150;Enero
+TIME;9781547845618;Jane Doe;Disponible;Edición 130;Febrero
+Scientific American;9781467891024;Carlos Pérez;Disponible;Edición 215;Marzo
+The New Yorker;9780912335824;Ana González;Disponible;Edición 298;Abril
+Forbes;9780241206724;Luis Martínez;Disponible;Edición 402;Mayo
